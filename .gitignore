@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+/sourcedata
+/__pycache__
+/eeg-env
+/pylossless
+/mne-icalabel
+/derivatives
+
